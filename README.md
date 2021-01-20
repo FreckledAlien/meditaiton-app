@@ -1,2 +1,2 @@
 # meditation-app
-Mediation app - JavaScript / HTML / CSS
+Meditation app - JavaScript / HTML / CSS
